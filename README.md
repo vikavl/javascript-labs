@@ -3,7 +3,7 @@
 This repository contains a collection of **HTML/CSS/JavaScript lab assignments**, each organized as a separate task.
 
 👉 **Live Demo:**  
-https://vikavl.github.io/js-uni-labs/
+https://vikavl.github.io/javascript-labs/
 
 ---
 
@@ -21,21 +21,21 @@ Each folder represents a separate lab:
 
 | Lab | Description | Link |
 |-----|------------|------|
-| Lab 1 | Basic JavaScript calculations (circle area, triangle hypotenuse) | [Open](https://vikavl.github.io/js-uni-labs/1/1.html) |
-| Lab 2 | Event handling & geometry (triangle area, distance, variable swap) | [Open](https://vikavl.github.io/js-uni-labs/2/1.html) |
-| Lab 3 | Conditional logic (max values, triangle validation, coordinate quadrant) | [Open](https://vikavl.github.io/js-uni-labs/3/1.html) |
-| Lab 4 | DOM manipulation & image interaction (swap, zoom, menu effects) | [Open](https://vikavl.github.io/js-uni-labs/4/1.html) |
-| Lab 5 | Forms & dynamic styling (UI control, user анкета) | [Open](https://vikavl.github.io/js-uni-labs/5/1.html) |
-| Lab 6 | Complex form processing (course selection & cost calculator) | [Open](https://vikavl.github.io/js-uni-labs/6/1.html) |
-| Lab 7 | UI customization & mini apps (table styling, shopping calculator) | [Open](https://vikavl.github.io/js-uni-labs/7/1.html) |
-| Lab 8 | Algorithms & number processing (reverse, lucky tickets, divisors) | [Open](https://vikavl.github.io/js-uni-labs/8/1.html) |
-| Lab 9 | Date processing & real-world logic (week number, zodiac, calendar) | [Open](https://vikavl.github.io/js-uni-labs/10/1.html) |
-| Lab 10 | Text processing (word count, replacement, formatting) | [Open](https://vikavl.github.io/js-uni-labs/10_B/1.html) |
+| Lab 1 | Basic JavaScript calculations (circle area, triangle hypotenuse) | [Open](https://vikavl.github.io/javascript-labs/1/1.html) |
+| Lab 2 | Event handling & geometry (triangle area, distance, variable swap) | [Open](https://vikavl.github.io/javascript-labs/2/1.html) |
+| Lab 3 | Conditional logic (max values, triangle validation, coordinate quadrant) | [Open](https://vikavl.github.io/javascript-labs/3/1.html) |
+| Lab 4 | DOM manipulation & image interaction (swap, zoom, menu effects) | [Open](https://vikavl.github.io/javascript-labs/4/1.html) |
+| Lab 5 | Forms & dynamic styling (UI control, user анкета) | [Open](https://vikavl.github.io/javascript-labs/5/1.html) |
+| Lab 6 | Complex form processing (course selection & cost calculator) | [Open](https://vikavl.github.io/javascript-labs/6/1.html) |
+| Lab 7 | UI customization & mini apps (table styling, shopping calculator) | [Open](https://vikavl.github.io/javascript-labs/7/1.html) |
+| Lab 8 | Algorithms & number processing (reverse, lucky tickets, divisors) | [Open](https://vikavl.github.io/javascript-labs/8/1.html) |
+| Lab 9 | Date processing & real-world logic (week number, zodiac, calendar) | [Open](https://vikavl.github.io/javascript-labs/10/1.html) |
+| Lab 10 | Text processing (word count, replacement, formatting) | [Open](https://vikavl.github.io/javascript-labs/10_B/1.html) |
 ___ 
 
 ## 🧪 Lab 1 — Basic JavaScript Calculations
 
-📍 [Open Lab 1](https://vikavl.github.io/js-uni-labs/1/1.html)
+📍 [Open Lab 1](https://vikavl.github.io/javascript-labs/1/1.html)
 
 This lab demonstrates simple JavaScript-based computations:
 
@@ -55,7 +55,7 @@ ___
 
 ## 🧪 Lab 2 — JavaScript Events & Geometry
 
-📍 [Open Lab 2](https://vikavl.github.io/js-uni-labs/2/1.html)
+📍 [Open Lab 2](https://vikavl.github.io/javascript-labs/2/1.html)
 
 This lab focuses on **JavaScript event handling** and **mathematical computations** using user input.
 
@@ -63,7 +63,7 @@ This lab focuses on **JavaScript event handling** and **mathematical computation
 
 ### 🔹 Task 2.2 — Triangle Area (focus event)
 
-📍 [Open](https://vikavl.github.io/js-uni-labs/2/1.html)
+📍 [Open](https://vikavl.github.io/javascript-labs/2/1.html)
 
 - Computes the **area of a triangle** using coordinates of three points  
 - Uses a formula based on determinants  
@@ -78,7 +78,7 @@ This lab focuses on **JavaScript event handling** and **mathematical computation
 
 ### 🔹 Task 2.3 — Distance to Origin (select event)
 
-📍 [Open](https://vikavl.github.io/js-uni-labs/2/2.html)
+📍 [Open](https://vikavl.github.io/javascript-labs/2/2.html)
 
 - Computes distance from a point to origin:  
   √(x² + y²)  
@@ -93,7 +93,7 @@ This lab focuses on **JavaScript event handling** and **mathematical computation
 
 ### 🔹 Task 2.4 — Swap Variables (blur event)
 
-📍 [Open](https://vikavl.github.io/js-uni-labs/2/3.html)
+📍 [Open](https://vikavl.github.io/javascript-labs/2/3.html)
 
 - Swaps values of two variables  
 - Triggered by **`onBlur` event**
@@ -118,7 +118,7 @@ ___
 
 ## 🧪 Lab 3 — Conditional Logic & Decision Making
 
-📍 [Open Lab 3](https://vikavl.github.io/js-uni-labs/3/1.html)
+📍 [Open Lab 3](https://vikavl.github.io/javascript-labs/3/1.html)
 
 This lab focuses on implementing **conditional statements in JavaScript** to solve logic-based problems.
 
@@ -126,7 +126,7 @@ This lab focuses on implementing **conditional statements in JavaScript** to sol
 
 ### 🔹 Task 3.2 — Count Maximum Values
 
-📍 [Open](https://vikavl.github.io/js-uni-labs/3/1.html)
+📍 [Open](https://vikavl.github.io/javascript-labs/3/1.html)
 
 - Finds the **maximum value** among 5 numbers  
 - Counts how many times this maximum appears  
@@ -140,7 +140,7 @@ This lab focuses on implementing **conditional statements in JavaScript** to sol
 
 ### 🔹 Task 3.3 — Triangle Existence Check
 
-📍 [Open](https://vikavl.github.io/js-uni-labs/3/2.html)
+📍 [Open](https://vikavl.github.io/javascript-labs/3/2.html)
 
 - Checks if a triangle can exist based on 3 sides  
 - Uses triangle inequality rule:
@@ -157,7 +157,7 @@ This lab focuses on implementing **conditional statements in JavaScript** to sol
 
 ### 🔹 Task 3.4 — Coordinate Quadrant Detection
 
-📍 [Open](https://vikavl.github.io/js-uni-labs/3/3.html)
+📍 [Open](https://vikavl.github.io/javascript-labs/3/3.html)
 
 - Determines which **quadrant** a point (x, y) belongs to  
 
@@ -179,7 +179,7 @@ ___
 
 ## 🧪 Lab 4 — DOM Manipulation & Image Interaction
 
-📍 [Open Lab 4](https://vikavl.github.io/js-uni-labs/4/1.html)
+📍 [Open Lab 4](https://vikavl.github.io/javascript-labs/4/1.html)
 
 This lab focuses on **interactive image manipulation using JavaScript and DOM properties**.
 
@@ -187,7 +187,7 @@ This lab focuses on **interactive image manipulation using JavaScript and DOM pr
 
 ### 🔹 Task 4.2 — Image Selection & Swap
 
-📍 [Open](https://vikavl.github.io/js-uni-labs/4/1.html)
+📍 [Open](https://vikavl.github.io/javascript-labs/4/1.html)
 
 - Select one of three images by entering its number  
 - The selected image is swapped with another image  
@@ -201,7 +201,7 @@ This lab focuses on **interactive image manipulation using JavaScript and DOM pr
 
 ### 🔹 Task 4.3 — Image Zoom Effect
 
-📍 [Open](https://vikavl.github.io/js-uni-labs/4/2.html)
+📍 [Open](https://vikavl.github.io/javascript-labs/4/2.html)
 
 - Images increase in size when hovered  
 - Return to original size when mouse leaves  
@@ -218,7 +218,7 @@ This lab focuses on **interactive image manipulation using JavaScript and DOM pr
 
 ### 🔹 Task 4.4 — Interactive Menu with Hover Indicator
 
-📍 [Open](https://vikavl.github.io/js-uni-labs/4/3.html)
+📍 [Open](https://vikavl.github.io/javascript-labs/4/3.html)
 
 - Horizontal image menu  
 - Displays an arrow indicator when hovering over menu items  
@@ -242,7 +242,7 @@ ___
 
 ## 🧪 Lab 5 — Forms & Dynamic Styling
 
-📍 [Open Lab 5](https://vikavl.github.io/js-uni-labs/5/1.html)
+📍 [Open Lab 5](https://vikavl.github.io/javascript-labs/5/1.html)
 
 This lab focuses on **user input handling, form processing, and dynamic style manipulation using JavaScript**.
 
@@ -250,7 +250,7 @@ This lab focuses on **user input handling, form processing, and dynamic style ma
 
 ### 🔹 Task 5.2 — Dynamic Line Position & Size
 
-📍 [Open](https://vikavl.github.io/js-uni-labs/5/1.html)
+📍 [Open](https://vikavl.github.io/javascript-labs/5/1.html)
 
 - Controls the position and size of a horizontal line (`<hr>`)  
 - Uses radio buttons to:
@@ -269,7 +269,7 @@ This lab focuses on **user input handling, form processing, and dynamic style ma
 
 ### 🔹 Task 5.3 — User Form (Anketa)
 
-📍 [Open](https://vikavl.github.io/js-uni-labs/5/2.html)
+📍 [Open](https://vikavl.github.io/javascript-labs/5/2.html)
 
 - Collects user data:
   - gender  
@@ -296,7 +296,7 @@ ___
 
 ## 🧪 Lab 6 — Form Processing & Cost Calculation
 
-📍 [Open Lab 6](https://vikavl.github.io/js-uni-labs/6/1.html)
+📍 [Open Lab 6](https://vikavl.github.io/javascript-labs/6/1.html)
 
 This lab implements a **course selection system** where users choose parameters and the script calculates the total cost.
 
@@ -345,7 +345,7 @@ ___
 
 ## 🧪 Lab 7 — UI Customization & Interactive Systems
 
-📍 [Open Lab 7](https://vikavl.github.io/js-uni-labs/7/1.html)
+📍 [Open Lab 7](https://vikavl.github.io/javascript-labs/7/1.html)
 
 This lab focuses on **dynamic UI customization and interactive data processing using JavaScript**.
 
@@ -353,7 +353,7 @@ This lab focuses on **dynamic UI customization and interactive data processing u
 
 ### 🔹 Task 7.2 — Table Style Customizer
 
-📍 [Open](https://vikavl.github.io/js-uni-labs/7/1.html)
+📍 [Open](https://vikavl.github.io/javascript-labs/7/1.html)
 
 - Allows users to customize:
   - table background color  
@@ -373,7 +373,7 @@ This lab focuses on **dynamic UI customization and interactive data processing u
 
 ### 🔹 Task 7.3 — Shopping Cart Calculator
 
-📍 [Open](https://vikavl.github.io/js-uni-labs/7/2.html)
+📍 [Open](https://vikavl.github.io/javascript-labs/7/2.html)
 
 - Simulates a simple shopping system  
 - Users select:
@@ -400,7 +400,7 @@ ___
 
 ## 🧪 Lab 8 — Algorithms & Number Processing
 
-📍 [Open Lab 8](https://vikavl.github.io/js-uni-labs/8/1.html)
+📍 [Open Lab 8](https://vikavl.github.io/javascript-labs/8/1.html)
 
 This lab focuses on implementing **classic algorithmic problems using JavaScript**, working with loops, arithmetic operations, and number manipulation.
 
@@ -408,7 +408,7 @@ This lab focuses on implementing **classic algorithmic problems using JavaScript
 
 ### 🔹 Task 8.2 — Reverse a Number
 
-📍 [Open](https://vikavl.github.io/js-uni-labs/8/1.html)
+📍 [Open](https://vikavl.github.io/javascript-labs/8/1.html)
 
 - Reverses a given natural number  
 - Example: 123 → 321  
@@ -422,7 +422,7 @@ This lab focuses on implementing **classic algorithmic problems using JavaScript
 
 ### 🔹 Task 8.3 — Lucky Tickets
 
-📍 [Open](https://vikavl.github.io/js-uni-labs/8/2.html)
+📍 [Open](https://vikavl.github.io/javascript-labs/8/2.html)
 
 - Counts all **"lucky" six-digit numbers**  
 - A number is lucky if:
@@ -437,7 +437,7 @@ This lab focuses on implementing **classic algorithmic problems using JavaScript
 
 ### 🔹 Task 8.4 — Divisors of a Number
 
-📍 [Open](https://vikavl.github.io/js-uni-labs/8/3.html)
+📍 [Open](https://vikavl.github.io/javascript-labs/8/3.html)
 
 - Finds all divisors of a given number  
 
@@ -459,7 +459,7 @@ ___
 
 ## 🧪 Lab 9 — Date Processing & Real-World Logic
 
-📍 [Open Lab 9](https://vikavl.github.io/js-uni-labs/10/1.html)
+📍 [Open Lab 9](https://vikavl.github.io/javascript-labs/10/1.html)
 
 This lab focuses on **working with dates and implementing real-world logic using JavaScript**.
 
@@ -467,7 +467,7 @@ This lab focuses on **working with dates and implementing real-world logic using
 
 ### 🔹 Task 9.2 — Week Number in Year
 
-📍 [Open](https://vikavl.github.io/js-uni-labs/10/1.html)
+📍 [Open](https://vikavl.github.io/javascript-labs/10/1.html)
 
 - Calculates the **week number of the year** for a given date  
 - Input format: `YYYY.MM.DD`  
@@ -481,7 +481,7 @@ This lab focuses on **working with dates and implementing real-world logic using
 
 ### 🔹 Task 9.3 — Zodiac Sign
 
-📍 [Open](https://vikavl.github.io/js-uni-labs/10/2.html)
+📍 [Open](https://vikavl.github.io/javascript-labs/10/2.html)
 
 - Determines a person's **zodiac sign** based on birth date  
 
@@ -494,7 +494,7 @@ This lab focuses on **working with dates and implementing real-world logic using
 
 ### 🔹 Task 9.4 — Chinese Zodiac Year
 
-📍 [Open](https://vikavl.github.io/js-uni-labs/10/3.html)
+📍 [Open](https://vikavl.github.io/javascript-labs/10/3.html)
 
 - Determines the **Chinese zodiac year** (animal + color)  
 - Based on a 60-year cycle  
@@ -517,7 +517,7 @@ ___
 
 ## 🧪 Lab 10 — Text Processing & String Manipulation
 
-📍 [Open Lab 10](https://vikavl.github.io/js-uni-labs/10_B/1.html)
+📍 [Open Lab 10](https://vikavl.github.io/javascript-labs/10_B/1.html)
 
 This lab focuses on **processing and transforming text using JavaScript**, including word counting, replacement, and formatting.
 
@@ -525,7 +525,7 @@ This lab focuses on **processing and transforming text using JavaScript**, inclu
 
 ### 🔹 Task 10.2 — Word Count
 
-📍 [Open](https://vikavl.github.io/js-uni-labs/10_B/1.html)
+📍 [Open](https://vikavl.github.io/javascript-labs/10_B/1.html)
 
 - Counts the number of words in user input  
 - Handles multiple spaces between words  
@@ -539,7 +539,7 @@ This lab focuses on **processing and transforming text using JavaScript**, inclu
 
 ### 🔹 Task 10.3 — Word Replacement
 
-📍 [Open](https://vikavl.github.io/js-uni-labs/10_B/2.html)
+📍 [Open](https://vikavl.github.io/javascript-labs/10_B/2.html)
 
 - Replaces all occurrences of a word **K** with another word **L**  
 
@@ -552,7 +552,7 @@ This lab focuses on **processing and transforming text using JavaScript**, inclu
 
 ### 🔹 Task 10.4 — Remove Extra Spaces
 
-📍 [Open](https://vikavl.github.io/js-uni-labs/10_B/3.html)
+📍 [Open](https://vikavl.github.io/javascript-labs/10_B/3.html)
 
 - Replaces multiple consecutive spaces with a single space  
 
